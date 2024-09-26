@@ -1,0 +1,8 @@
+[INFO 09-23 10:30:26] ------------- Exp1 -------------
+[INFO 09-23 10:30:26] Batch size: 64
+[INFO 09-23 10:30:26] Learning rate: 0.0002
+[INFO 09-23 10:30:26] Use integrated planning module: False
+[INFO 09-23 10:30:26] Use device: cuda
+[INFO 09-23 10:30:27] Dataset Prepared: 105966 train data, 26471 validation data
+
+[INFO 09-23 10:30:27] Epoch 1/20
