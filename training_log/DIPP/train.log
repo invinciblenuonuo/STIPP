@@ -1,8 +1,0 @@
-[INFO 09-22 16:11:32] ------------- DIPP -------------
-[INFO 09-22 16:11:32] Batch size: 32
-[INFO 09-22 16:11:32] Learning rate: 0.0002
-[INFO 09-22 16:11:32] Use integrated planning module: False
-[INFO 09-22 16:11:32] Use device: cuda
-[INFO 09-22 16:11:37] Dataset Prepared: 129920 train data, 129923 validation data
-
-[INFO 09-22 16:11:37] Epoch 1/20
